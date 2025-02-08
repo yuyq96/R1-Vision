@@ -1,3 +1,11 @@
+<div align="center">
+
+# R1-Vision: Let's first take a look at the image
+
+[\[🤗 Cold-Start Dataset\]](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83)  [\[📜 Report (Coming Soom)\]]()
+
+</div>
+
 # R1-Vision: Let's first take a look at the image
 
 DeepSeek-R1 demonstrates outstanding reasoning abilities when tackling **math**, **coding**, **puzzle**, and **science** problems, as well as responding to **general** inquiries. However, as a text-only reasoning model, R1 cannot process multimodal inputs like images, which limits its practicality in certain situations. Exploring the potential for multimodal reasoning is an intriguing prospect.
@@ -6,7 +14,7 @@ We build this project to create a model that can reason with both text and image
 
 ## 🔥 News
 
-- `2025/02/08`: We are excited to announce the release of the initial version of our cold-start dataset on [🤗 HuggingFace](). This first trial employs the `DeepSeek-R1-Distill-Qwen-32B` model for reasoning and the `GPT-4o-mini` model for image captioning and data formatting. 
+- `2025/02/08`: We are excited to announce the release of the initial version of our cold-start dataset on [🤗 HuggingFace](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83). This first trial employs the `DeepSeek-R1-Distill-Qwen-32B` model for reasoning and the `GPT-4o-mini` model for image captioning and data formatting. 
 
 > [!NOTE]
 > We are actively working on developing enhanced versions that will:
