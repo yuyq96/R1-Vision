@@ -6,8 +6,6 @@
 
 </div>
 
-# R1-Vision: Let's first take a look at the image
-
 DeepSeek-R1 demonstrates outstanding reasoning abilities when tackling **math**, **coding**, **puzzle**, and **science** problems, as well as responding to **general** inquiries. However, as a text-only reasoning model, R1 cannot process multimodal inputs like images, which limits its practicality in certain situations. Exploring the potential for multimodal reasoning is an intriguing prospect.
 
 We build this project to create a model that can reason with both text and images.
