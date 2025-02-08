@@ -40,8 +40,8 @@ We explore distilling the strong reasoning capabilities from a Large Language Mo
 | Text | Bespoke-Stratos-17k | 16.7k |
 | Text Rendering | Bespoke-Stratos-17k | 12.6k |
 | Multimodal | AI2D | 7.8k |
-| Text / Multimodal | ScienceQA | 10k |
-| Multimodal | PixMo-Cap-QA | 19k |
+| Text / Multimodal | ScienceQA | 9.9k |
+| Multimodal | PixMo-Cap-QA | 19.4k |
 
 ### 👁 Caption-Prefixing
 
