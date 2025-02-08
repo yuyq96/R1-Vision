@@ -7,7 +7,7 @@
   <br>
 </div>
 
-[\[🤗 Cold-Start Dataset\]](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83)  [\[📜 Report (Coming Soom)\]]()
+[\[🤗 Cold-Start Dataset\]](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83)  [\[📜 Report (Coming Soon)\]]()
 
 </div>
 
