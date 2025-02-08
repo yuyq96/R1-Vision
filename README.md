@@ -2,6 +2,11 @@
 
 # R1-Vision: Let's first take a look at the image
 
+<div align="center">
+  <img width="640" alt="image" src="https://github.com/user-attachments/assets/f917bf13-674a-4d17-a6ea-8e141addb3fc">
+  <br>
+</div>
+
 [\[🤗 Cold-Start Dataset\]](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83)  [\[📜 Report (Coming Soom)\]]()
 
 </div>
@@ -32,9 +37,9 @@ We explore distilling the strong reasoning capabilities from a Large Language Mo
 
 | Type | Source Dataset| Numbers |
 | :- | :- | :-: |
-| Text | Bespoke-Stratos-17k | 17k |
-| Text Rendering | Bespoke-Stratos-17k | 15k |
-| Multimodal | AI2D | 8k |
+| Text | Bespoke-Stratos-17k | 16.7k |
+| Text Rendering | Bespoke-Stratos-17k | 12.6k |
+| Multimodal | AI2D | 7.8k |
 | Text / Multimodal | ScienceQA | 10k |
 | Multimodal | PixMo-Cap-QA | 19k |
 
