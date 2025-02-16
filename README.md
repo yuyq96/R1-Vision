@@ -97,7 +97,7 @@ If you find this project useful in your research, please consider cite:
 
 ```
 @misc{yu25r1vision,
-  author       = {Ya{-}Qi Yu and Minghui Liao and Jihao Wu and Chao Weng},
+  author       = {Ya{-}Qi Yu and Minghui Liao and and Feilong Chen and Jihao Wu and Chao Weng},
   title        = {R1-Vision: Let's first take a look at the image},
   howpublished = {\url{https://github.com/yuyq96/R1-Vision}},
   note         = {Accessed: 2025-02-08},
